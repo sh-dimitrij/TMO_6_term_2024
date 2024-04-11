@@ -26,7 +26,7 @@ ___
 
 | №| :sparkles: РК :sparkles:   |:round_pushpin: Ссылка на РК :round_pushpin:|
 | ------------- |:------------------:| -----:|
-| :one: | РК1   | [RK1]()|
+| :one: | РК1   | [RK1](https://github.com/sh-dimitrij/TMO_6_term_2024/blob/main/%D0%A0%D0%9A%201/rk1_task.ipynb)|
 | :two: | РК2   | [RK2]()|
 
 ___
