@@ -37,6 +37,6 @@ ___
 
 | №| :sparkles: НИР :sparkles:   |:round_pushpin: Ссылка на НИР :round_pushpin:|
 | ------------- |:------------------:| -----:|
-| :one: | НИР   | [NIR]([https://github.com/sh-dimitrij/TMO_6_term_2024/blob/main/%D0%A0%D0%9A%201/rk1_task.ipynb](https://github.com/sh-dimitrij/TMO_6_term_2024/blob/main/%D0%9D%D0%98%D0%A0%D0%A1/%D0%A9%D0%B5%D0%BF%D0%B5%D1%82%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%20%D0%98%D0%A35-62%D0%91%20%D0%9D%D0%98%D0%A0.pdf))|
+| :one: | НИР   | [NIR](https://github.com/sh-dimitrij/TMO_6_term_2024/blob/main/%D0%9D%D0%98%D0%A0%D0%A1/%D0%A9%D0%B5%D0%BF%D0%B5%D1%82%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%20%D0%98%D0%A35-62%D0%91%20%D0%9D%D0%98%D0%A0.pdf)|
 
 ___
